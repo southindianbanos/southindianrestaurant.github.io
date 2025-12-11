@@ -1,0 +1,7 @@
+body{background:#000;color:#fff;font-family:Arial;text-align:center;margin:0;padding:0;}
+.container{max-width:500px;margin:auto;padding:40px 20px;}
+.logo{width:200px;margin:20px;}
+.btn{display:block;background:#111;padding:18px;margin:15px;color:#fff;
+text-decoration:none;border-radius:12px;font-size:20px;font-weight:bold;
+box-shadow:0 0 10px #ff000055;transition:.3s;}
+.btn:hover{transform:scale(1.05);box-shadow:0 0 14px #ff000099;}
